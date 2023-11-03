@@ -84,7 +84,8 @@ Each Loan Detail might require one or multiple Loan Collaterals depending on the
 
 
 # Ten Queries
-![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/0d2aa501-3d76-4b7c-b187-21438407ff34)
+
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/44b578bd-5c3d-4de2-bf8d-26a25a911730)
 
 
 Query 1 lists the name of the loan seekers and a description of their business ventures. The query is useful for managers to see the trend of upcoming business ventures and study their user information. This procedure can be called using a given loan number.
